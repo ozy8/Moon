@@ -5,6 +5,7 @@ bio:                'Someone once told me that developers should seek to solve p
 description:        "Web Developer with Finance Experience | Entrepreneur"
 reading_time:       true
 words_per_minute:   200
+myphoto:            'assets/img/ozyBlackwhite.jpg'
 logo:               'assets/img/LightBulbOn.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
