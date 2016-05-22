@@ -1,10 +1,11 @@
 # Site
 title:              Ow Zhiyin
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Someone once told me that developers should seek to solve problems and coding is just the tool which we use.
+                    That has been my mantra since. Equipped with my knowledge, I aspire to create solutions for the many problems out there.'
+description:        "This is a personal enclave for me to rant and for you to view my past projects. "
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/LightBulbOn.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -26,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   ozy8
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,18 +39,18 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+twitter:            stubby_8
+#facebook:           username
+github:             ozy8
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          owzhiyin
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
