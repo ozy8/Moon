@@ -9,4 +9,4 @@ At the same time, it also showcases the projects that I have done previously.
 
 For any collaboration enquiries, please feel free to reach out to me.
 
-You know how.
+You know how to do it don't you?
